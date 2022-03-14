@@ -16,9 +16,9 @@
       "body-parser": "^1.18.1",
       "express": "^4.15.4",
       "nodemailer": "^6.4.16",
-      "pg": "^7.3.0",
+      "pg": "^8.7.3",
       "reflect-metadata": "^0.1.10",
-      "typeorm": "0.2.25"
+      "typeorm": "^0.2.45"
    },
    "scripts": {
       "start": "ts-node src/index.ts",
