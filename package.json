@@ -14,7 +14,7 @@
    "dependencies": {
       "bcrypt": "^5.0.0",
       "body-parser": "^1.18.1",
-      "express": "^4.15.4",
+      "express": "^4.17.3",
       "nodemailer": "^6.4.16",
       "pg": "^8.7.3",
       "reflect-metadata": "^0.1.10",
