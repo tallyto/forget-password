@@ -4,7 +4,7 @@ import { saveUser, login, forgetPassword } from './controller/UserController'
 const routes = Router()
 
 routes.get("/", (req, res)=>{
-    message: "Hello World"
+    res.json({message: "Server Running..."})
 })
 
 routes.post("/users", saveUser)
