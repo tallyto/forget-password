@@ -1,10 +1,6 @@
 {
-   "type": "postgres",
-   "host": "localhost",
-   "port": 5432,
-   "username": "postgres",
-   "password": "postgres",
-   "database": "db_forgot",
+   "type": "sqlite",
+   "database": "src/infra/file.db",
    "synchronize": true,
    "logging": false,
    "entities": [
